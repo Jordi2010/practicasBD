@@ -1,4 +1,4 @@
 <?php
-echo 'hola Mundo';
-echo 'archivo modificado';
+/*echo 'hola Mundo';
+echo 'archivo modificado';*/
 ?>
